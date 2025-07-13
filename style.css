@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #0f1115;
+    color: #ffffff;
+    text-align: center;
+}
+
+header {
+    background-color: #1e1e2f;
+    padding: 40px 20px;
+}
+
+.logo {
+    width: 120px;
+    margin-bottom: 20px;
+}
+
+.whatsapp-button {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 12px 24px;
+    background-color: #25D366;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 8px;
+    font-weight: bold;
+}
+
+section {
+    padding: 40px 20px;
+}
+
+footer {
+    background-color: #1e1e2f;
+    padding: 20px;
+    font-size: 0.9em;
+    color: #ccc;
+}
